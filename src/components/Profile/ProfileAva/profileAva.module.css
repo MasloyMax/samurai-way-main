@@ -1,0 +1,13 @@
+.profile_container{
+  display: flex;
+}
+
+.profile_container img{
+  padding-left: 30px;
+  width: 150px;
+  height: 150px
+}
+
+.text{
+  padding-left: 20px;
+}
